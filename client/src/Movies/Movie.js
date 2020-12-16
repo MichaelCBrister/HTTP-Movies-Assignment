@@ -38,3 +38,4 @@ function Movie({ addToSavedList }) {
 }
 
 export default Movie;
+
